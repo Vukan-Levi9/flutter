@@ -111,7 +111,7 @@ LUCI tasks are run on Flutter-infrastructure-managed VMs, using an [out-of-repo 
 - Usually easy to identify since failures are generally before the tests even run.
 
 #### Investigation & resolution tips
-- File an [infrastructure ticket](../../infra/Infra-Ticket-Queue.md).
+- File an [infrastructure ticket](../../triage/Infra-Triage.md).
 - Check the recipe file for recent changes.
 
 ### Firebase Test Lab (Also known as: "FTL")
